@@ -1,2 +1,3 @@
-# Utils_Batch
+# Utilities
 Collection of Utilities
+  - Batch
